@@ -1,4 +1,4 @@
-package au.com.keithdavidson.springwebdisandpit.service;
+package au.com.keithdavidson.springwebdisandpit.pojos;
 
 // No class Component annotations
 public class MyPojo {
